@@ -1,4 +1,3 @@
-include ':app', ':lib', ':sample-app-capitals'
+include ':app', ':lib'
 project(':lib').projectDir = new File('libs/lib')
-project(':sample-app-capitals').projectDir = new File('libs/sample-app-capitals')
 

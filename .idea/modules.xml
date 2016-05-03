@@ -5,7 +5,6 @@
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/libs/lib/lib.iml" filepath="$PROJECT_DIR$/libs/lib/lib.iml" />
       <module fileurl="file://$PROJECT_DIR$/mapsmedroid.iml" filepath="$PROJECT_DIR$/mapsmedroid.iml" />
-      <module fileurl="file://$PROJECT_DIR$/libs/sample-app-capitals/sample-app-capitals.iml" filepath="$PROJECT_DIR$/libs/sample-app-capitals/sample-app-capitals.iml" />
     </modules>
   </component>
 </project>
