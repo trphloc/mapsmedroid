@@ -1,4 +1,14 @@
 <resources>
     <string name="app_name">mapsmedroid</string>
     <string name="action_settings">Settings</string>
+    <string name="show_all">Show all capitals with maps.me</string>
+    <string name="open_with_mapswithme">Open with maps.me</string>
+    <string name="name">Name:</string>
+    <string name="alternative_names">Alternative names:</string>
+    <string name="lat">Lat:</string>
+    <string name="lon">Lon:</string>
+    <string name="country">Country:</string>
+    <string name="population">Population:</string>
+    <string name="time_zone">Time Zone:</string>
+    <string name="elevation">Elevation:</string>
 </resources>
