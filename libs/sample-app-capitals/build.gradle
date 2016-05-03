@@ -3,12 +3,12 @@ apply plugin: 'android'
 android {
 
   // Define these properties in the gradle.properties file in the root project folder
-  compileSdkVersion propTargetSdkVersion.toInteger()
-  buildToolsVersion propBuildToolsVersion
+  compileSdkVersion 23
+  buildToolsVersion "23.0.3"
 
   defaultConfig {
-    minSdkVersion propMinSdkVersion.toInteger()
-    targetSdkVersion propTargetSdkVersion.toInteger()
+    minSdkVersion 15
+    targetSdkVersion 23
   }
 
   sourceSets.main {
